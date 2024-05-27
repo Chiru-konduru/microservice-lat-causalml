@@ -5,3 +5,6 @@ This case study focuses on identifying the root causes of unexpected latencies o
 - Identify the root causes of elevated latencies in the microservice architecture.
 - Analyze the dependencies between different services in the order placement process.
 - Propose and implement mitigation strategies to alleviate the identified latency issues.
+
+# Service Architecture
+![Service Architecture](Microservice_Arch)
