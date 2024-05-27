@@ -7,4 +7,4 @@ This case study focuses on identifying the root causes of unexpected latencies o
 - Propose and implement mitigation strategies to alleviate the identified latency issues.
 
 # Service Architecture
-![Service Architecture](Microservice_Arch)
+![Service Architecture](Microservice_Arch.png)
